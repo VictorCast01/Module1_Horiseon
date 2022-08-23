@@ -26,3 +26,5 @@ https://github.com/VictorCast01/Module1_Horiseon
 
 
 Link to the Horiseon website
+
+https://victorcast01.github.io/Module1_Horiseon/
